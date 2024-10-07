@@ -1,0 +1,2 @@
+# Dark_Duo_Youtube_Ad_Blocker_Extension
+ Dark_Duo_Youtube_Ad_Blocker_Extension is a powerful Chrome extension designed to enhance your YouTube viewing experience by blocking intrusive ads. With a sleek, user-friendly interface and a dark mode option, it allows users to enjoy uninterrupted content. Built by the innovative Dark Duo team, this extension not only promotes productivity but also simplifies online entertainment. Enjoy seamless streaming while supporting an ad-free environment!
